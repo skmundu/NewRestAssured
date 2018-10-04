@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8196" started-at="2018-10-02T16:28:02Z" finished-at="2018-10-02T16:28:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8196" started-at="2018-10-02T16:28:02Z" finished-at="2018-10-02T16:28:11Z">
+      <class name="com.restassured.oct022018.Test_07_SettingRequestData">
+        <test-method status="PASS" signature="testRequestQueryparameters()[pri:0, instance:com.restassured.oct022018.Test_07_SettingRequestData@6e1567f1]" name="testRequestQueryparameters" duration-ms="8127" started-at="2018-10-02T21:58:03Z" finished-at="2018-10-02T21:58:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRequestQueryparameters -->
+      </class> <!-- com.restassured.oct022018.Test_07_SettingRequestData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
