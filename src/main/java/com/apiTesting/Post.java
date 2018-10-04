@@ -11,7 +11,9 @@ public class Post {
 	
 	public String getId()
 	{
+		System.out.println("This is a test");
 		return id;
+		
 	}
 	
 	public void setId(String id)
